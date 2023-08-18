@@ -379,7 +379,7 @@ export default function Home()
                                     to="/"
                                     className="text-decoration-none text-white stretched-link"
                                 >
-                                    Appliances
+                                    Appliance
                                 </Link>
                             </li>
                         </ul>
